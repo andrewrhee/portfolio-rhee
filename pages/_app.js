@@ -11,8 +11,6 @@ import '../styles/main.scss';
 import 'react-toastify/dist/ReactToastify.css';
 
 
-
-
 export default class MyApp extends App {
   
   static async getInitialProps({ Component, router, ctx }) {
