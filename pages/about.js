@@ -27,7 +27,7 @@ class About extends React.Component {
 
                 <p>
                   I have over 10 years of experience working on a wide range of
-                  technologies and proecjts from a variety of programming
+                  technologies and projects from a variety of programming
                   languages and frameworks.
                 </p>
 
@@ -61,7 +61,7 @@ class About extends React.Component {
 
                 <p>
                   Feel free to reach out to me regarding your own projects, I'd
-                  love to see where I can be of some help! Talk to you soon!
+                  love to see where I can be of some help! Talk to you soon! :)
                 </p>
               </div>
             </Col>
