@@ -41,11 +41,6 @@ const BaseLayout = (props) => {
         />
         {cannonical && <link rel="cannonical" href={`${process.env.BASE_URL}${cannonical}`} />}
 
-        <script src="https://kit.fontawesome.com/a1cc386348.js"></script>
-        <link
-          href="https://fonts.googleapis.com/icon?family=Material+Icons"
-          rel="stylesheet"
-        />
       </Head>
       <div className="layout-container">
         {
