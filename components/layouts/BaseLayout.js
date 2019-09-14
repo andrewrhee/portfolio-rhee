@@ -39,6 +39,7 @@ const BaseLayout = (props) => {
           property="og:description"
           content="My name is Andrew Rhee and I am an experienced software engineer and freelance developer."
         />
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet"></link>
         {cannonical && <link rel="cannonical" href={`${process.env.BASE_URL}${cannonical}`} />}
 
       </Head>
